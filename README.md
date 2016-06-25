@@ -1,2 +1,2 @@
 # Guess-My-Number
-A game in pyton
+A game in python
